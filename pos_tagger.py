@@ -28,6 +28,7 @@ with open("data.pkl", "rb") as f:
 
 model = load_model("model.h5")
 
+
 def split_line(line: str) -> Generator[List[str], None, None]:
     """
     Разбивает строку на куски длиной в 50 или меньше слов. Это нужно, потому
