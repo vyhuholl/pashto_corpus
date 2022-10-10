@@ -759,7 +759,7 @@ Verb/متل
 Verb/دی
 Verb/چې
 Verb/وايي
-Verb/«مه
+Verb/مه
 Verb/دومره
 Verb/خوږ
 Verb/شه
@@ -784,7 +784,7 @@ Verb/له
 Verb/چا
 Verb/سره
 Verb/نه
-Verb/وي.»
+Verb/وي
 Verb/اعتدال
 Verb/احتیاط
 Verb/تدبیر

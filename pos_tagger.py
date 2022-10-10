@@ -16,7 +16,7 @@ from keras.models import load_model
 from tensorflow.keras.utils import pad_sequences
 from tqdm import tqdm
 
-punctuation += "؟،"
+punctuation += "«»؟،"
 
 texts_path = Path("texts")
 (tagged_texts_path := Path("tagged_texts")).mkdir(exist_ok=True)

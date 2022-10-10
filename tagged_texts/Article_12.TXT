@@ -441,7 +441,7 @@ Verb/لپاره
 Verb/اتل
 Verb/شو
 Verb/چنګېز
-Verb/«تیموچین»
+Verb/تیموچین
 Verb/ته
 Verb/ځکه
 Verb/د
@@ -867,10 +867,10 @@ Verb/دا
 Verb/چې«پو
 Verb/په
 Verb/خپله
-Verb/پو»
+Verb/پو
 Verb/او
 Verb/یا
-Verb/«ما
+Verb/ما
 Verb/په
 Verb/خپله
 Verb/ځان
@@ -878,7 +878,7 @@ Verb/وژلی
 Verb/یار
 Verb/ګرم
 Verb/نه
-Verb/دی»
+Verb/دی
 Verb/اټومي
 Verb/زره
 Verb/وي

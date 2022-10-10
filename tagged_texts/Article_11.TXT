@@ -35,9 +35,8 @@ Verb/واکمنۍ
 Verb/پر
 Verb/مهال
 Verb/اردو
-Verb/«
 Verb/۱۷۰۹
-Verb/۱۷۳۸»
+Verb/۱۷۳۸
 Verb/م
 Verb/کلونه
 Verb/میرویس

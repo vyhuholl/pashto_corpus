@@ -564,7 +564,7 @@ Verb/کیسه
 Verb/کوله
 Verb/ویل
 Verb/يې
-Verb/«په
+Verb/په
 Verb/هالنډ
 Verb/کې
 Verb/وم
@@ -575,7 +575,7 @@ Verb/ونیوله
 Verb/او
 Verb/راته
 Verb/يې
-Verb/وویل
+Adverb/وویل
 Adverb/چې
 Adverb/زموږ
 Adverb/سره
@@ -614,7 +614,7 @@ Adverb/چې
 Adverb/تاسو
 NULL/لرغون
 NULL/پېژندونکی
-Verb/یاست.»
+Verb/یاست
 Verb/فکر
 Verb/وکړئ
 Verb/چې

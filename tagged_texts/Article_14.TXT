@@ -56,7 +56,7 @@ Verb/متل
 Verb/دی
 Verb/چې
 Verb/وايي
-Verb/«که
+Verb/که
 Verb/زه
 Verb/دې
 Verb/خراب
@@ -65,7 +65,7 @@ Verb/ته
 Verb/مې
 Verb/هم
 Verb/نری
-Verb/کړې.»
+Verb/کړې
 Verb/وايي
 Verb/د
 Verb/روژې
@@ -73,9 +73,9 @@ Verb/پر
 Verb/اته
 Verb/ویشتمه
 Verb/ورځ
-Verb/د
-Verb/یوه
-Verb/روژه
+Adverb/د
+Adverb/یوه
+Adverb/روژه
 Adverb/دار
 Adverb/خُلق
 Adverb/ډیر
@@ -126,7 +126,7 @@ Verb/ځان
 Verb/سره
 Verb/يې
 Verb/وویل
-Verb/«که
+Verb/که
 Verb/زه
 Verb/دې
 Verb/خراب
@@ -137,7 +137,7 @@ Verb/خو
 Verb/هم
 Verb/ښه
 Verb/نرۍ
-Verb/کړې.»
+Verb/کړې
 Verb/خبره
 Verb/دا
 Verb/ده

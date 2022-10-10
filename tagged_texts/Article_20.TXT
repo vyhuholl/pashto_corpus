@@ -760,11 +760,11 @@ Verb/حقوق
 Verb/دموکراسۍ
 Verb/د
 Verb/ښځو
-Verb/ازادي
+Adverb/ازادي
 Adverb/او
 Adverb/ټول
 Adverb/شموله
-Adverb/حکومت»
+Adverb/حکومت
 Adverb/ته
 Adverb/لاس
 Adverb/کړ

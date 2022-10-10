@@ -654,7 +654,7 @@ Verb/په
 Verb/څرګندو
 Verb/ټکو
 Verb/وویل
-Verb/«داعش
+Verb/داعش
 Verb/د
 Verb/پاکستان
 Verb/ملیشې
@@ -666,10 +666,10 @@ Verb/کې
 Verb/هېڅ
 Verb/بنسټ
 Verb/نه
-Verb/لري
+Adverb/لري
 Adverb/دلته
 Adverb/داسې
-Verb/عناصر
+Adverb/عناصر
 Adverb/نه
 Adverb/شته
 Adverb/چی
@@ -710,7 +710,7 @@ Verb/د
 Verb/پاکستان
 Verb/ملیشه
 Verb/ځواکونه
-Verb/دي.»
+Verb/دي
 Verb/د
 Verb/شینوارو
 Verb/په

@@ -171,7 +171,7 @@ Verb/متل
 Verb/دی
 Verb/چې
 Verb/وايي
-Verb/«جګړه
+Verb/جګړه
 Verb/په
 Verb/زور
 Verb/ګټل
@@ -181,7 +181,7 @@ Verb/په
 Verb/زور
 Verb/کلي
 Verb/نه
-Verb/کېږي.»
+Verb/کېږي
 Verb/د
 Verb/جګړې
 Verb/تر
