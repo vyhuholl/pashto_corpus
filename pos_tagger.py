@@ -28,7 +28,6 @@ with open("data.pkl", "rb") as f:
 
 model = load_model("model.h5")
 
-
 def split_line(line: str) -> Generator[List[str], None, None]:
     """
     Разбивает строку на куски длиной в 50 или меньше слов. Это нужно, потому
@@ -72,10 +71,7 @@ def tag_sentence(sentence: List[str], verbose: int) -> str:
     result = []
 
     for i, word in enumerate(sentence):
-        try:
-            pred = int2tag[np.argmax(prediction[0][i])]
-        except KeyError:
-            pred = "NULL"
+        pred = int2tag[np.argmax(prediction[0][i][1:]) + 1]
         result.append(pred + "/" + word)
 
     if verbose > 2:
